@@ -12,6 +12,8 @@
 ![image](https://github.com/user-attachments/assets/b010710c-205a-4135-89f8-395ef1b7fbbc)
 
 5.进行测试
-![image](https://github.com/user-attachments/assets/3f20522b-12c9-49e5-86da-6e69240833b5)
+
+![image](https://github.com/user-attachments/assets/8f180dc2-65d5-43a5-8dd8-315b660c59c6)
+
 
 配置成功！
